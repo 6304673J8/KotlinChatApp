@@ -1,2 +1,2 @@
-# KotlingChatApp
+# KotlinChatApp
 Learning Kotling Development Using Android Studio
