@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470071878096",
+    "project_id": "metachat-ba1eb",
+    "storage_bucket": "metachat-ba1eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470071878096:android:282dd6c97171ae679019d5",
+        "android_client_info": {
+          "package_name": "com.example.customchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470071878096-ma199faqni3crrjmuoef9ad9i1o8asan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ7R1knjGJ4JkFusWsOqUDJdASgubcRdQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470071878096-ma199faqni3crrjmuoef9ad9i1o8asan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
