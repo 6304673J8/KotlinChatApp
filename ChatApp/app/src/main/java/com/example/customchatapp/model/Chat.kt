@@ -1,4 +1,4 @@
-package com.example.customchatapp.data
+package com.example.customchatapp.model
 
 data class Chat (
     val id: String? = null,

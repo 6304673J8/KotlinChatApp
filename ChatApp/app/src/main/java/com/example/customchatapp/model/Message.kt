@@ -1,6 +1,4 @@
-package com.example.customchatapp.data
-
-import java.sql.Timestamp
+package com.example.customchatapp.model
 
 class Message(
     val author: String? = null,
